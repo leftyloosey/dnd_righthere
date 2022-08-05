@@ -1,0 +1,13 @@
+body, header{
+    font-family:'Fondamento', cursive;
+}
+
+#character{
+    border-radius: 20px;
+    border-width: 3px;
+    border-color:orange;
+    box-shadow: 10px 10px;
+}
+#card {
+    background-image: url('/Main/public/images/Symbol-Images/DnD-Paladin.png')
+}

@@ -1,0 +1,42 @@
+body {
+    background-image: url("images/login-screen.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode: multiply;
+    background-position: center;
+    font-family: 'Fondamento', cursive;
+    height: 100vh;
+}
+
+.cool-bkg {
+    background-color: rgb(41, 45, 49);
+    opacity: 70%;
+    font-family: 'Fondamento', cursive;
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url("/Main/public/images/border-image.jpg") 30% round;
+}
+
+.container {
+  font-family: 'Fondamento', cursive;
+  width: 35% !important;
+}
+
+.card-body {
+    background-color: rgb(41, 45, 49);
+    /* height: 75vh; */
+}
+
+.button1 {
+    background-color: rgb(255, 0, 0);
+    border-color: white;
+    border-radius: 5px;
+}
+
+.detail-screen{
+    color:white;
+}
+
+/* .card {
+    height: 75vh;
+} */
